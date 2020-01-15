@@ -1,4 +1,4 @@
-FROM php:7.0-cli
+FROM php:7.4-cli
 
 MAINTAINER Yu-Hsien Chou  <slps970093@gmail.com>
 
