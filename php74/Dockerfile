@@ -14,6 +14,7 @@ RUN apt-get update && apt-get install -y \
         libpcre3-dev \
         libnghttp2-dev \
         libhiredis-dev \
+        libonig-dev \
         curl \
         wget \
         zip \
